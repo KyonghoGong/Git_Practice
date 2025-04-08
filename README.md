@@ -1,5 +1,4 @@
-# Git_Practice
-
+# TODO_LIST - Git_Practice
 This repository was created to practice Git skills through building a simple Python to-do list application.
 
 ## 📂 Files
@@ -20,3 +19,10 @@ This repository was created to practice Git skills through building a simple Pyt
 ### 1. Run the basic CLI version:
 ```bash
 python todo_list.py
+```
+
+### 2. Run and view HTML output:
+```bash
+python todo_html.py
+start todo_2025-04-07.html
+```
