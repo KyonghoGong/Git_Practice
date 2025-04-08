@@ -8,7 +8,6 @@ def show_tasks():
     for i, task in enumerate(tasks, 1):
         print(f"{i}. {task}")
 
-# 테스트 함수
 def run_tests():
     tasks.clear()
     add_task("Test Task")
