@@ -1,5 +1,5 @@
 # TODO_LIST - Git_Practice
-ℹ️ Used Language & Tools: Python, Git, GitHub, Visual Studio Code
+ℹ️ Used Language & Tools: Python, Git, GitHub, Visual Studio Code.       
 This repository was created to practice Git skills through building a simple Python to-do list application.
 
 ## 📂 Files
