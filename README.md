@@ -4,7 +4,7 @@ This repository was created to practice Git skills through building a simple Pyt
 ## 📂 Files
 
 - `todo_list.py`: A basic command-line to-do list program with built-in test functions.
-- `todo_html.py`: An extended version that saves daily tasks into a text file and generates an HTML file for viewing in a browser.
+- `todo_html.py`: Saves daily tasks and generates a browsable HTML file.
 
 ## 🧠 Features
 
