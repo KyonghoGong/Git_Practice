@@ -24,5 +24,5 @@ python todo_list.py
 ### 2. Run and view HTML output:
 ```bash
 python todo_html.py
-start todo_2025-04-07.html
+start todo_(date).html
 ```
